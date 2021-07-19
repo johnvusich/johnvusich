@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @johnvusich
 - 👀 I’m interested in bioinformatics and tumor immunology
-- 🌱 I’m currently learning Rstudio
-- 💞️ I’m looking to collaborate on biology data visualization
+- 🌱 I’m currently learning single-cell genomics
 - 📫 How to reach me: vusichjo@msu.edu
 
 <!---
