@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnvusich
-- 👀 I’m interested in bioinformatics and tumor immunology
-- 🌱 I’m currently learning single-cell genomics
+- 👀 I’m interested in bioinformatics and cancer biology
+- 🌱 I’m currently learning single-cell transcriptomics
 - 📫 How to reach me: vusichjo@msu.edu
 
 <!---
