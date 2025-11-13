@@ -7,6 +7,3 @@ I’m [John Vusich](https://johnvusich.github.io/). I am a PhD candidate in Eran
 - [X](https://x.com/johnvusich)
 - [Google Scholar](https://scholar.google.com/citations?user=h4FPctcAAAAJ&hl=en)
 - [Website](https://johnvusich.github.io/)
-
-## Peer Review Activities
-[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@johnvusich)](https://joss.theoj.org/papers/reviewed_by/@johnvusich)
